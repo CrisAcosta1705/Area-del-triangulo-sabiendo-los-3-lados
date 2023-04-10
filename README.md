@@ -1,1 +1,1 @@
-# Area-del-triangulo-sabiendo-los-3-lados
+# Area-del-triangulo-conociendo-los-3-lados
